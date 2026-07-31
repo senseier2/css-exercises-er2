@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.salmon {
+    background-color: #ffa9b7;
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+.salmon.big {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0004ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #3dfa43;
+    font-size: 24px;
+    font-weight: bold;
+}
